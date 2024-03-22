@@ -66,21 +66,21 @@ for module in "${modules[@]}"; do
     readme="$readme
 # $module
 ### stable
-```
+\`\`\`
 $s
-```
+\`\`\`
 ### stable exp
-```
+\`\`\`
 $se
-```
+\`\`\`
 ### preview
-```
+\`\`\`
 $p
-```
+\`\`\`
 ### preview exp
-```
+\`\`\`
 $pe
-```
+\`\`\`
 
 "
 
