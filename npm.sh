@@ -64,16 +64,16 @@ for module in "${modules[@]}"; do
 	pv=$( get $p )
 	pev=$( get $pe )
 
-	readme="$readme
-# $module
-### stable
-- $s
-### stable exp
-- $se
-### preview
-- $p
-### preview exp
-- $pe
+	readme="$readme \
+# $module \
+### stable \
+- $s \
+### stable exp \
+- $se \
+### preview \
+- $p \
+### preview exp \
+- $pe \
 
 "
 	
