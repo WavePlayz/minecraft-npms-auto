@@ -16,7 +16,7 @@ re_preview=".+rc.+preview.+"
 # "1.11.0-beta.1.20.80-preview.23"
 re_preview_exp=".+beta.+preview.+"
 
-readme=""
+readme="[![Daily NPM Script](https://github.com/WavePlayz/minecraft-npms-auto/actions/workflows/fetch.yml/badge.svg)](https://github.com/WavePlayz/minecraft-npms-auto/actions/workflows/fetch.yml)"
 json="{"
 
 for module in "${modules[@]}"; do
@@ -66,13 +66,21 @@ for module in "${modules[@]}"; do
     readme="$readme
 # $module
 ### stable
-- $s
+```
+$s
+```
 ### stable exp
-- $se
+```
+$se
+```
 ### preview
-- $p
+```
+$p
+```
 ### preview exp
-- $pe
+```
+$pe
+```
 
 "
 
