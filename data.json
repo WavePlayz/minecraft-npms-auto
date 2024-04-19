@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1712768067,
+    "modified": 1713461200,
     "versions": {
       "stable": {
         "version": "1.9.0",
@@ -13,19 +13,19 @@
         "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.10.0-beta.1.20.70-stable.tgz"
       },
       "preview": {
-        "version": "1.11.0-rc.1.21.0-preview.21",
-        "npm": "npm i @minecraft/server@1.11.0-rc.1.21.0-preview.21",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.11.0-rc.1.21.0-preview.21.tgz"
+        "version": "1.11.0-rc.1.21.0-preview.22",
+        "npm": "npm i @minecraft/server@1.11.0-rc.1.21.0-preview.22",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.11.0-rc.1.21.0-preview.22.tgz"
       },
       "preview_exp": {
-        "version": "1.12.0-beta.1.21.0-preview.21",
-        "npm": "npm i @minecraft/server@1.12.0-beta.1.21.0-preview.21",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.12.0-beta.1.21.0-preview.21.tgz"
+        "version": "1.12.0-beta.1.21.0-preview.22",
+        "npm": "npm i @minecraft/server@1.12.0-beta.1.21.0-preview.22",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.12.0-beta.1.21.0-preview.22.tgz"
       }
     }
   },
   "server-ui": {
-    "modified": 1712768042,
+    "modified": 1713461169,
     "versions": {
       "stable": {
         "version": "1.1.0",
@@ -43,14 +43,14 @@
         "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.1.0-rc.1.20.20-preview.20.tgz"
       },
       "preview_exp": {
-        "version": "1.2.0-beta.1.21.0-preview.21",
-        "npm": "npm i @minecraft/server-ui@1.2.0-beta.1.21.0-preview.21",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.2.0-beta.1.21.0-preview.21.tgz"
+        "version": "1.2.0-beta.1.21.0-preview.22",
+        "npm": "npm i @minecraft/server-ui@1.2.0-beta.1.21.0-preview.22",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.2.0-beta.1.21.0-preview.22.tgz"
       }
     }
   },
   "server-gametest": {
-    "modified": 1712768024,
+    "modified": 1713461148,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -64,11 +64,11 @@
       },
       "preview": null,
       "preview_exp": {
-        "version": "1.0.0-beta.1.21.0-preview.21",
-        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.0-preview.21",
-        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.0-preview.21.tgz"
+        "version": "1.0.0-beta.1.21.0-preview.22",
+        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.0-preview.22",
+        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.0-preview.22.tgz"
       }
     }
   },
-  "last_fetch": 1713401701
+  "last_fetch": 1713488454
 }
