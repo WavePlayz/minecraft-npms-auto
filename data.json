@@ -50,7 +50,7 @@
     }
   },
   "server-gametest": {
-    "modified": 1715790106,
+    "modified": 1715874668,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -70,5 +70,5 @@
       }
     }
   },
-  "last_fetch": 1715821112
+  "last_fetch": 1715907515
 }
