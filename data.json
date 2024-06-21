@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1718812843,
+    "modified": 1718911951,
     "versions": {
       "stable": {
         "version": "1.11.0",
@@ -8,9 +8,9 @@
         "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.11.0.tgz"
       },
       "stable_exp": {
-        "version": "1.12.0-beta.1.21.0-stable",
-        "npm": "npm i @minecraft/server@1.12.0-beta.1.21.0-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.12.0-beta.1.21.0-stable.tgz"
+        "version": "1.12.0-beta.1.21.1-stable",
+        "npm": "npm i @minecraft/server@1.12.0-beta.1.21.1-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.12.0-beta.1.21.1-stable.tgz"
       },
       "preview": {
         "version": "1.12.0-rc.1.21.10-preview.24",
@@ -25,7 +25,7 @@
     }
   },
   "server-ui": {
-    "modified": 1718812823,
+    "modified": 1718911936,
     "versions": {
       "stable": {
         "version": "1.1.0",
@@ -33,9 +33,9 @@
         "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.1.0.tgz"
       },
       "stable_exp": {
-        "version": "1.2.0-beta.1.21.0-stable",
-        "npm": "npm i @minecraft/server-ui@1.2.0-beta.1.21.0-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.2.0-beta.1.21.0-stable.tgz"
+        "version": "1.2.0-beta.1.21.1-stable",
+        "npm": "npm i @minecraft/server-ui@1.2.0-beta.1.21.1-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-1.2.0-beta.1.21.1-stable.tgz"
       },
       "preview": {
         "version": "1.2.0-rc.1.21.10-preview.24",
@@ -50,7 +50,7 @@
     }
   },
   "server-gametest": {
-    "modified": 1718812801,
+    "modified": 1718911919,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -58,9 +58,9 @@
         "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.release.1.19.50.tgz"
       },
       "stable_exp": {
-        "version": "1.0.0-beta.1.21.0-stable",
-        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.0-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.0-stable.tgz"
+        "version": "1.0.0-beta.1.21.1-stable",
+        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.1-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.1-stable.tgz"
       },
       "preview": null,
       "preview_exp": {
@@ -70,5 +70,5 @@
       }
     }
   },
-  "last_fetch": 1718845190
+  "last_fetch": 1718931626
 }
