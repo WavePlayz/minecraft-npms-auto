@@ -2,11 +2,11 @@
 # server
 ### stable
 ```
-1.13.0
+1.14.0
 ```
 ### stable exp
 ```
-1.14.0-beta.1.21.23-stable
+1.15.0-beta.1.21.30-stable
 ```
 ### preview
 ```
@@ -21,11 +21,11 @@
 # server-ui
 ### stable
 ```
-1.2.0
+1.3.0
 ```
 ### stable exp
 ```
-1.3.0-beta.1.21.23-stable
+1.4.0-beta.1.21.30-stable
 ```
 ### preview
 ```
@@ -40,11 +40,11 @@
 # server-gametest
 ### stable
 ```
-1.0.0-beta.release.1.19.50
+0.1.0
 ```
 ### stable exp
 ```
-1.0.0-beta.1.21.23-stable
+1.0.0-beta.1.21.30-stable
 ```
 ### preview
 ```
