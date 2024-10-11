@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1728492042,
+    "modified": 1728532541,
     "versions": {
       "stable": {
         "version": "1.14.0",
@@ -18,9 +18,9 @@
         "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.16.0-rc.1.21.50-preview.20.tgz"
       },
       "preview_exp": {
-        "version": "1.16.0-beta.1.21.40-preview.25",
-        "npm": "npm i @minecraft/server@1.16.0-beta.1.21.40-preview.25",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.16.0-beta.1.21.40-preview.25.tgz"
+        "version": "1.17.0-beta.1.21.50-preview.20",
+        "npm": "npm i @minecraft/server@1.17.0-beta.1.21.50-preview.20",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-1.17.0-beta.1.21.50-preview.20.tgz"
       }
     }
   },
@@ -74,5 +74,5 @@
       }
     }
   },
-  "last_fetch": 1728522678
+  "last_fetch": 1728609088
 }
