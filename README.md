@@ -2,11 +2,11 @@
 # server
 ### stable
 ```
-1.14.0
+1.15.0
 ```
 ### stable exp
 ```
-1.15.0-beta.1.21.31-stable
+1.16.0-beta.1.21.41-stable
 ```
 ### preview
 ```
@@ -25,7 +25,7 @@
 ```
 ### stable exp
 ```
-1.4.0-beta.1.21.31-stable
+1.4.0-beta.1.21.41-stable
 ```
 ### preview
 ```
@@ -44,7 +44,7 @@
 ```
 ### stable exp
 ```
-1.0.0-beta.1.21.31-stable
+1.0.0-beta.1.21.41-stable
 ```
 ### preview
 ```
