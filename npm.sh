@@ -7,27 +7,28 @@ modules=(
     "server-gametest" 
 )
 
-# "1.9.0"
+# Regex patterns
 re_stable="[0-9]+(.[0-9]+){2}\$"
-# "1.10.0-beta.1.20.70-stable"
 re_stable_exp=".+beta.+stable\$"
-# "1.10.0-rc.1.20.80-preview.23"
 re_preview=".+rc.+preview.+"
-# "1.11.0-beta.1.20.80-preview.23"
 re_preview_exp=".+beta.+preview.+"
 
+# Prepare readme and json output
 readme="[![Daily NPM Script](https://github.com/WavePlayz/minecraft-npms-auto/actions/workflows/fetch.yml/badge.svg)](https://github.com/WavePlayz/minecraft-npms-auto/actions/workflows/fetch.yml)"
 json="{"
+npms_output=""
+
+# Create or empty the npms.txt file
+echo "" > npms.txt
 
 for module in "${modules[@]}"; do
-    echo Getting $module
+    echo "Getting $module"
     
     url_content=$(curl \
         -sH "Accept: application/vnd.npm.install-v1+json" \
         "$base_url/$module")
     
     modified=$(jq -r <<< $url_content '.modified')
-    
     vers=$(jq <<< $url_content ".versions")
     keys=$(jq <<< $vers "keys_unsorted") 
 
@@ -53,45 +54,54 @@ for module in "${modules[@]}"; do
         }"
     }
     
-    s=$( filter_last_key $re_stable )
-    se=$( filter_last_key $re_stable_exp )
-    p=$( filter_last_key $re_preview )
-    pe=$( filter_last_key $re_preview_exp )
+    s=$(filter_last_key $re_stable)
+    se=$(filter_last_key $re_stable_exp)
+    p=$(filter_last_key $re_preview)
+    pe=$(filter_last_key $re_preview_exp)
 
-    sv=$( get $s )
-    sev=$( get $se )
-    pv=$( get $p )
-    pev=$( get $pe )
+    # Get the npm strings for output
+    npm_stable="npm i @minecraft/$module@$s"
+    npm_stable_exp="npm i @minecraft/$module@$se"
+    npm_preview="npm i @minecraft/$module@$p"
+    npm_preview_exp="npm i @minecraft/$module@$pe"
+
+    # Append to the npms output variable
+    npms_output+="$module $s $se $p $pe\n"
 
     readme="$readme
 # $module
-### stable
+<details>
+
+stable
 \`\`\`
 $s
 \`\`\`
-### stable exp
+
+stable exp
 \`\`\`
 $se
 \`\`\`
-### preview
+
+preview
 \`\`\`
 $p
 \`\`\`
-### preview exp
+
+preview exp
 \`\`\`
 $pe
 \`\`\`
-
+</details>
 "
 
     json="$json
 \"$module\": {
     \"modified\": $(date -d $modified +%s),
     \"versions\": {
-        \"stable\": $sv,
-        \"stable_exp\": $sev,
-        \"preview\": $pv,
-        \"preview_exp\": $pev
+        \"stable\": $(get $s),
+        \"stable_exp\": $(get $se),
+        \"preview\": $(get $p),
+        \"preview_exp\": $(get $pe)
     }
 },"
     
@@ -101,5 +111,7 @@ json="$json
 \"last_fetch\": $(date +%s)
 }"
 
+# Write to data.json and npms.txt
 echo "$(jq <<< "$json")" > data.json
+echo -e "$npms_output" > npms.txt
 echo "$readme" > README.md
