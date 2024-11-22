@@ -14,12 +14,12 @@ stable exp
 
 preview
 ```
-1.16.0-rc.1.21.50-preview.29
+1.17.0-rc.1.21.60-preview.21
 ```
 
 preview exp
 ```
-1.17.0-beta.1.21.50-preview.29
+1.18.0-beta.1.21.60-preview.21
 ```
 </details>
 
@@ -43,7 +43,7 @@ preview
 
 preview exp
 ```
-1.4.0-beta.1.21.50-preview.29
+1.4.0-beta.1.21.60-preview.21
 ```
 </details>
 
@@ -67,7 +67,7 @@ preview
 
 preview exp
 ```
-1.0.0-beta.1.21.50-preview.29
+1.0.0-beta.1.21.60-preview.21
 ```
 </details>
 
