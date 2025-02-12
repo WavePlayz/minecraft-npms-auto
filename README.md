@@ -4,12 +4,12 @@
 
 stable
 ```
-1.16.0
+1.17.0
 ```
 
 stable exp
 ```
-1.17.0-beta.1.21.51-stable
+1.18.0-beta.1.21.60-stable
 ```
 
 preview
@@ -33,7 +33,7 @@ stable
 
 stable exp
 ```
-1.4.0-beta.1.21.51-stable
+1.4.0-beta.1.21.60-stable
 ```
 
 preview
@@ -57,7 +57,7 @@ stable
 
 stable exp
 ```
-1.0.0-beta.1.21.51-stable
+1.0.0-beta.1.21.60-stable
 ```
 
 preview
