@@ -9,17 +9,17 @@ stable
 
 stable exp
 ```
-1.18.0-beta.1.21.60-stable
+1.18.0-beta.1.21.61-stable
 ```
 
 preview
 ```
-1.18.0-rc.1.21.70-preview.23
+1.18.0-rc.1.21.70-preview.24
 ```
 
 preview exp
 ```
-2.0.0-beta.1.21.70-preview.23
+2.0.0-beta.1.21.70-preview.24
 ```
 </details>
 
@@ -33,7 +33,7 @@ stable
 
 stable exp
 ```
-1.4.0-beta.1.21.60-stable
+1.4.0-beta.1.21.61-stable
 ```
 
 preview
@@ -43,7 +43,7 @@ preview
 
 preview exp
 ```
-2.0.0-beta.1.21.70-preview.23
+2.0.0-beta.1.21.70-preview.24
 ```
 </details>
 
@@ -57,7 +57,7 @@ stable
 
 stable exp
 ```
-1.0.0-beta.1.21.60-stable
+1.0.0-beta.1.21.61-stable
 ```
 
 preview
@@ -67,7 +67,7 @@ preview
 
 preview exp
 ```
-1.0.0-beta.1.21.70-preview.23
+1.0.0-beta.1.21.70-preview.24
 ```
 </details>
 
