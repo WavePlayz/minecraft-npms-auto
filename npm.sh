@@ -4,7 +4,11 @@ base_url="https://registry.npmjs.org/$namespace"
 modules=(
     "server" 
     "server-ui" 
-    "server-gametest" 
+    "debug-utilities"
+    "server-gametest"
+    "server-admin"
+    "server-net"
+    "server-editor"
 )
 
 # Regex patterns
@@ -77,7 +81,7 @@ stable
 $s
 \`\`\`
 
-stable exp
+beta
 \`\`\`
 $se
 \`\`\`
@@ -87,7 +91,7 @@ preview
 $p
 \`\`\`
 
-preview exp
+preview beta
 \`\`\`
 $pe
 \`\`\`
@@ -99,9 +103,9 @@ $pe
     \"modified\": $(date -d $modified +%s),
     \"versions\": {
         \"stable\": $(get $s),
-        \"stable_exp\": $(get $se),
+        \"beta\": $(get $se),
         \"preview\": $(get $p),
-        \"preview_exp\": $(get $pe)
+        \"preview_beta\": $(get $pe)
     }
 },"
     
