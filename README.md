@@ -14,12 +14,12 @@ beta
 
 preview
 ```
-2.0.0-rc.1.21.90-preview.21
+2.0.0-rc.1.21.80-preview.22
 ```
 
 preview beta
 ```
-2.1.0-beta.1.21.90-preview.21
+2.1.0-beta.1.21.80-preview.22
 ```
 </details>
 
@@ -38,12 +38,12 @@ beta
 
 preview
 ```
-2.0.0-rc.1.21.90-preview.21
+2.0.0-rc.1.21.80-preview.22
 ```
 
 preview beta
 ```
-2.1.0-beta.1.21.90-preview.21
+2.1.0-beta.1.21.80-preview.22
 ```
 </details>
 
