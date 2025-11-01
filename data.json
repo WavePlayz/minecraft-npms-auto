@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1761781993,
+    "modified": 1761928570,
     "versions": {
       "stable": {
         "version": "2.3.0",
@@ -13,19 +13,19 @@
         "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.4.0-beta.1.21.120-stable.tgz"
       },
       "preview": {
-        "version": "2.4.0-rc.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server@2.4.0-rc.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.4.0-rc.1.21.130-preview.24.tgz"
+        "version": "2.4.0-rc.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server@2.4.0-rc.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.4.0-rc.1.21.130-preview.25.tgz"
       },
       "preview_beta": {
-        "version": "2.5.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server@2.5.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.5.0-beta.1.21.130-preview.24.tgz"
+        "version": "2.5.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server@2.5.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.5.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "server-ui": {
-    "modified": 1761781949,
+    "modified": 1761928523,
     "versions": {
       "stable": {
         "version": "2.0.0",
@@ -43,14 +43,14 @@
         "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.0.0-rc.1.21.100-preview.20.tgz"
       },
       "preview_beta": {
-        "version": "2.1.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server-ui@2.1.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.1.0-beta.1.21.130-preview.24.tgz"
+        "version": "2.1.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server-ui@2.1.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.1.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "debug-utilities": {
-    "modified": 1761781897,
+    "modified": 1761928472,
     "versions": {
       "stable": null,
       "beta": {
@@ -60,14 +60,14 @@
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.21.130-preview.24.tgz"
+        "version": "1.0.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "server-gametest": {
-    "modified": 1761781923,
+    "modified": 1761928497,
     "versions": {
       "stable": {
         "version": "0.1.0",
@@ -85,14 +85,14 @@
         "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-0.1.0-rc.1.21.40-preview.20.tgz"
       },
       "preview_beta": {
-        "version": "1.0.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.130-preview.24.tgz"
+        "version": "1.0.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "server-admin": {
-    "modified": 1761781909,
+    "modified": 1761928485,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -106,14 +106,14 @@
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.21.130-preview.24.tgz"
+        "version": "1.0.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "server-net": {
-    "modified": 1761781936,
+    "modified": 1761928509,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -127,14 +127,14 @@
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.21.130-preview.24.tgz"
+        "version": "1.0.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
   "server-editor": {
-    "modified": 1761781916,
+    "modified": 1761928491,
     "versions": {
       "stable": null,
       "beta": {
@@ -144,11 +144,11 @@
       },
       "preview": null,
       "preview_beta": {
-        "version": "0.1.0-beta.1.21.130-preview.24",
-        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.21.130-preview.24",
-        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.21.130-preview.24.tgz"
+        "version": "0.1.0-beta.1.21.130-preview.25",
+        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.21.130-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.21.130-preview.25.tgz"
       }
     }
   },
-  "last_fetch": 1761873691
+  "last_fetch": 1761960345
 }
