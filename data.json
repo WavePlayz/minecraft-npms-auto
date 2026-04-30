@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1776787574,
+    "modified": 1777490550,
     "versions": {
       "stable": {
         "version": "2.6.0",
@@ -67,7 +67,7 @@
     }
   },
   "server-gametest": {
-    "modified": 1776787495,
+    "modified": 1777480354,
     "versions": {
       "stable": {
         "version": "0.1.0",
@@ -150,5 +150,5 @@
       }
     }
   },
-  "last_fetch": 1777430724
+  "last_fetch": 1777517216
 }
