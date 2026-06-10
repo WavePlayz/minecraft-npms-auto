@@ -14,12 +14,12 @@ beta
 
 preview
 ```
-2.9.0-rc.1.26.40-preview.20
+2.9.0-rc.1.26.40-preview.24
 ```
 
 preview beta
 ```
-2.10.0-beta.1.26.40-preview.20
+2.10.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -38,12 +38,12 @@ beta
 
 preview
 ```
-2.1.0-rc.1.26.40-preview.20
+2.1.0-rc.1.26.40-preview.24
 ```
 
 preview beta
 ```
-2.2.0-beta.1.26.40-preview.20
+2.2.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -67,7 +67,7 @@ null
 
 preview beta
 ```
-1.0.0-beta.1.26.40-preview.20
+1.0.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -91,7 +91,7 @@ preview
 
 preview beta
 ```
-1.0.0-beta.1.26.40-preview.20
+1.0.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -115,7 +115,7 @@ null
 
 preview beta
 ```
-1.0.0-beta.1.26.40-preview.20
+1.0.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -139,7 +139,7 @@ null
 
 preview beta
 ```
-1.0.0-beta.1.26.40-preview.20
+1.0.0-beta.1.26.40-preview.24
 ```
 </details>
 
@@ -163,7 +163,7 @@ null
 
 preview beta
 ```
-0.1.0-beta.1.26.40-preview.20
+0.1.0-beta.1.26.40-preview.24
 ```
 </details>
 
