@@ -1,8 +1,8 @@
-server 2.9.0 2.10.0-beta.1.26.40-stable 2.9.0-rc.1.26.50-preview.22 2.11.0-beta.1.26.50-preview.22
-server-ui 2.1.0 2.2.0-beta.1.26.40-stable 2.2.0-rc.1.26.50-preview.22 2.3.0-beta.1.26.50-preview.22
-debug-utilities null 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.22
-server-gametest 0.1.0 1.0.0-beta.1.26.40-stable 0.1.0-rc.1.21.40-preview.20 1.0.0-beta.1.26.50-preview.22
-server-admin 1.0.0-beta.release.1.19.50 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.22
-server-net 1.0.0-beta.release.1.19.50 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.22
-server-editor null 0.1.0-beta.1.26.40-stable null 0.1.0-beta.1.26.50-preview.22
+server 2.9.0 2.10.0-beta.1.26.40-stable 2.10.0-rc.1.26.50-preview.24 2.11.0-beta.1.26.50-preview.24
+server-ui 2.1.0 2.2.0-beta.1.26.40-stable 2.2.0-rc.1.26.50-preview.24 2.3.0-beta.1.26.50-preview.24
+debug-utilities null 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.24
+server-gametest 0.1.0 1.0.0-beta.1.26.40-stable 0.1.0-rc.1.21.40-preview.20 1.0.0-beta.1.26.50-preview.24
+server-admin 1.0.0-beta.release.1.19.50 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.24
+server-net 1.0.0-beta.release.1.19.50 1.0.0-beta.1.26.40-stable null 1.0.0-beta.1.26.50-preview.24
+server-editor null 0.1.0-beta.1.26.40-stable null 0.1.0-beta.1.26.50-preview.24
 
