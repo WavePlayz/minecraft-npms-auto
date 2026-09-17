@@ -1,6 +1,6 @@
 {
   "server": {
-    "modified": 1789488983,
+    "modified": 1789575785,
     "versions": {
       "stable": {
         "version": "2.10.0",
@@ -8,24 +8,24 @@
         "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.10.0.tgz"
       },
       "beta": {
-        "version": "2.11.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server@2.11.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.11.0-beta.1.26.50-stable.tgz"
+        "version": "2.11.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server@2.11.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.11.0-beta.1.26.51-stable.tgz"
       },
       "preview": {
-        "version": "2.11.0-rc.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server@2.11.0-rc.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.11.0-rc.1.26.60-preview.23.tgz"
+        "version": "2.11.0-rc.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server@2.11.0-rc.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.11.0-rc.1.26.60-preview.25.tgz"
       },
       "preview_beta": {
-        "version": "2.12.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server@2.12.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.12.0-beta.1.26.60-preview.23.tgz"
+        "version": "2.12.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server@2.12.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server/-/server-2.12.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "server-ui": {
-    "modified": 1789488848,
+    "modified": 1789575341,
     "versions": {
       "stable": {
         "version": "2.2.0",
@@ -33,41 +33,41 @@
         "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.2.0.tgz"
       },
       "beta": {
-        "version": "2.3.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server-ui@2.3.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.3.0-beta.1.26.50-stable.tgz"
+        "version": "2.3.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server-ui@2.3.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.3.0-beta.1.26.51-stable.tgz"
       },
       "preview": {
-        "version": "2.3.0-rc.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-ui@2.3.0-rc.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.3.0-rc.1.26.60-preview.23.tgz"
+        "version": "2.3.0-rc.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-ui@2.3.0-rc.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.3.0-rc.1.26.60-preview.25.tgz"
       },
       "preview_beta": {
-        "version": "2.4.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-ui@2.4.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.4.0-beta.1.26.60-preview.23.tgz"
+        "version": "2.4.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-ui@2.4.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-ui/-/server-ui-2.4.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "debug-utilities": {
-    "modified": 1789488921,
+    "modified": 1789575448,
     "versions": {
       "stable": null,
       "beta": {
-        "version": "1.0.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.26.50-stable.tgz"
+        "version": "1.0.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.26.51-stable.tgz"
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.26.60-preview.23.tgz"
+        "version": "1.0.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/debug-utilities@1.0.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/debug-utilities/-/debug-utilities-1.0.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "server-gametest": {
-    "modified": 1789488814,
+    "modified": 1789575312,
     "versions": {
       "stable": {
         "version": "0.1.0",
@@ -75,9 +75,9 @@
         "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-0.1.0.tgz"
       },
       "beta": {
-        "version": "1.0.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.26.50-stable.tgz"
+        "version": "1.0.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.26.51-stable.tgz"
       },
       "preview": {
         "version": "0.1.0-rc.1.21.40-preview.20",
@@ -85,14 +85,14 @@
         "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-0.1.0-rc.1.21.40-preview.20.tgz"
       },
       "preview_beta": {
-        "version": "1.0.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.26.60-preview.23.tgz"
+        "version": "1.0.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-gametest@1.0.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-gametest/-/server-gametest-1.0.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "server-admin": {
-    "modified": 1789488858,
+    "modified": 1789575431,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -100,20 +100,20 @@
         "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.release.1.19.50.tgz"
       },
       "beta": {
-        "version": "1.0.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.26.50-stable.tgz"
+        "version": "1.0.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.26.51-stable.tgz"
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.26.60-preview.23.tgz"
+        "version": "1.0.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-admin@1.0.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-admin/-/server-admin-1.0.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "server-net": {
-    "modified": 1789488957,
+    "modified": 1789575402,
     "versions": {
       "stable": {
         "version": "1.0.0-beta.release.1.19.50",
@@ -121,34 +121,34 @@
         "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.release.1.19.50.tgz"
       },
       "beta": {
-        "version": "1.0.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.26.50-stable.tgz"
+        "version": "1.0.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.26.51-stable.tgz"
       },
       "preview": null,
       "preview_beta": {
-        "version": "1.0.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.26.60-preview.23.tgz"
+        "version": "1.0.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-net@1.0.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-net/-/server-net-1.0.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
   "server-editor": {
-    "modified": 1789488997,
+    "modified": 1789575363,
     "versions": {
       "stable": null,
       "beta": {
-        "version": "0.1.0-beta.1.26.50-stable",
-        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.26.50-stable",
-        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.26.50-stable.tgz"
+        "version": "0.1.0-beta.1.26.51-stable",
+        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.26.51-stable",
+        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.26.51-stable.tgz"
       },
       "preview": null,
       "preview_beta": {
-        "version": "0.1.0-beta.1.26.60-preview.23",
-        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.26.60-preview.23",
-        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.26.60-preview.23.tgz"
+        "version": "0.1.0-beta.1.26.60-preview.25",
+        "npm": "npm i @minecraft/server-editor@0.1.0-beta.1.26.60-preview.25",
+        "download": "https://registry.npmjs.org/@minecraft/server-editor/-/server-editor-0.1.0-beta.1.26.60-preview.25.tgz"
       }
     }
   },
-  "last_fetch": 1789528963
+  "last_fetch": 1789615705
 }
