@@ -4,12 +4,12 @@
 
 stable
 ```
-2.10.0
+2.11.0
 ```
 
 beta
 ```
-2.11.0-beta.1.26.52-stable
+2.12.0-beta.1.26.60-stable
 ```
 
 preview
@@ -28,12 +28,12 @@ preview beta
 
 stable
 ```
-2.2.0
+2.3.0
 ```
 
 beta
 ```
-2.3.0-beta.1.26.52-stable
+2.4.0-beta.1.26.60-stable
 ```
 
 preview
@@ -57,7 +57,7 @@ null
 
 beta
 ```
-1.0.0-beta.1.26.52-stable
+1.0.0-beta.1.26.60-stable
 ```
 
 preview
@@ -81,7 +81,7 @@ stable
 
 beta
 ```
-1.0.0-beta.1.26.52-stable
+1.0.0-beta.1.26.60-stable
 ```
 
 preview
@@ -105,7 +105,7 @@ stable
 
 beta
 ```
-1.0.0-beta.1.26.52-stable
+1.0.0-beta.1.26.60-stable
 ```
 
 preview
@@ -129,7 +129,7 @@ stable
 
 beta
 ```
-1.0.0-beta.1.26.52-stable
+1.0.0-beta.1.26.60-stable
 ```
 
 preview
@@ -153,7 +153,7 @@ null
 
 beta
 ```
-0.1.0-beta.1.26.52-stable
+0.1.0-beta.1.26.60-stable
 ```
 
 preview
